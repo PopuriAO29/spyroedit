@@ -1,8 +1,8 @@
 # SpyroEdit
-SpyroEdit is a specialised emulator plugin for modifying the Spyro the Dragon games on the PlayStation 1. It's compatible with Windows emulators such as ePSXe and PCSX.  
+SpyroEdit is a specialized emulator plugin for modifying the Spyro the Dragon games on the PlayStation 1. It's compatible with Windows emulators such as ePSXe and PCSX.  
 
 # Features
-* Edit level textures and colours!
+* Edit level textures and colors!
 * Replace level skies with skies from different levels! (Spyro 2 and 3 cross-compatible!)  
 * Give Spyro cool and unruly powers, such as the Headbashpocalypse!  
 * Edit object properties in-game!  
